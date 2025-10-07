@@ -79,7 +79,7 @@ Gosto de resolver problemas reais com código limpo e eficiente, explorando desd
 
 ## 🏆 Certificações & Experiências
 
-* 🎓 [Certificados]([https://link-para-o-curriculo](https://drive.google.com/drive/folders/1Dm6HELvptZKGLzpm6Qr5JWiscu7y9KEe?hl=pt-br))
+* 🎓 [Certificados]([https://link-para-o-curriculo](https://drive.google.com/drive/folders/1Dm6HELvptZKGLzpm6Qr5JWiscu7y9KEe?hl=pt-br])
 * 💻 **Experiência:** Estagiário em RPA na ValeShop - Automação de tarefas, análise de dados e machine larning com Python e Excel
 * 🔬 **Iniciação Científica:** Foco em ciência de dados e inteligência artificial aplicada
 
@@ -89,7 +89,7 @@ Gosto de resolver problemas reais com código limpo e eficiente, explorando desd
 
 * 🔗 [LinkedIn](https://www.linkedin.com/in/maarquesz)
 * 📧 [thi4go.marqu3s@gmail.com](mailto:thi4go.marqu3s@gmail.com)
-* 💼 [Currículo]([https://link-para-o-curriculo](https://drive.google.com/drive/folders/1Dm6HELvptZKGLzpm6Qr5JWiscu7y9KEe?hl=pt-br))
+* 💼 [Currículo]([https://link-para-o-curriculo](https://drive.google.com/drive/folders/1Dm6HELvptZKGLzpm6Qr5JWiscu7y9KEe?hl=pt-br])
 
 ---
 
