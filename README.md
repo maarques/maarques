@@ -1,8 +1,6 @@
 <p align="center">
-  <img src="./banner_git.png" alt="Banner" width="100%">
-</p>
-<p align="center">
-  <img src="./eu_PixelArt.jpg" alt="Thiago Pixel Art" width="200">
+  <img src="https://raw.githubusercontent.com/maarques/maarques/main/banner_git.png#gh-dark-mode-only" width="100%">
+  <img src="https://raw.githubusercontent.com/maarques/maarques/main/banner_git.png#gh-light-mode-only" width="100%">
 </p>
 
 # 👋 Olá, eu sou o **Thiago Marques**
