@@ -1,9 +1,4 @@
-<p align="center">
-  <img src="https://raw.githubusercontent.com/maarques/maarques/main/banner_git.png" alt="Banner" width="100%">
-</p>
-<p align="center">
-  <img src="https://raw.githubusercontent.com/maarques/maarques/main/eu_PixelArt.jpg" alt="Thiago Pixel Art" width="200">
-</p>
+<img src="https://raw.githubusercontent.com/maarques/maarques/main/assets/banner_git.png" alt="Banner" width="100%">
 
 # 👋 Olá, eu sou o **Thiago Marques**
 
