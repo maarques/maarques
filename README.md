@@ -1,6 +1,9 @@
 <p align="center">
   <img src="./banner_git.png" alt="Banner" width="100%">
 </p>
+<p align="center">
+  <img src="./eu_PixelArt.jpg" alt="Thiago Pixel Art" width="200">
+</p>
 
 # 👋 Olá, eu sou o **Thiago Marques**
 
