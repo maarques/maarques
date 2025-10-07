@@ -1,4 +1,6 @@
-![Banner](./banner_git.png)
+<p align="center">
+  <img src="./banner_git.png" alt="Banner" width="100%">
+</p>
 
 # 👋 Olá, eu sou o **Thiago Marques**
 
