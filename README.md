@@ -1,3 +1,5 @@
+![Banner](./meu_banner_git)
+
 # 👋 Olá, eu sou o **Thiago Marques**
 
 [![Profile Views](https://komarev.com/ghpvc/?username=maarques\&color=blue)](https://github.com/maarques)
