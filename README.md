@@ -19,11 +19,11 @@
 Sou estudante de **Ciência da Computação** na Universidade Católica de Brasília, apaixonado por **ciência de dados**, **machine learning** e **automação com APIs**.
 Gosto de resolver problemas reais com código limpo e eficiente, explorando desde o tratamento e análise de dados até o desenvolvimento de soluções inteligentes.
 
-* 🔭 Atualmente desenvolvendo projetos em **Python**, com foco em dados e automação.
+* 🔭 Atualmente estagiário emm RPA desenvolvendo projetos em **Python**, com foco em dados e automação.
 * 💡 Interesses: aprendizado de máquina, análise de dados e engenharia de software.
 * 🎯 Objetivo: aplicar tecnologia de forma prática para gerar impacto real.
 * 💬 Curiosidade: tive meu primeiro contato com automação criando soluções no Excel antes mesmo de conhecer Python.
-* 📫 Contato: [thiagomarques@email.com](mailto:thiagomarques@email.com) • [LinkedIn](https://www.linkedin.com/in/thiagomarques)
+* 📫 Contato: [thi4go.marqu3s@gmail.com](mailto:thi4go.marqu3s@gmail.com) • [LinkedIn](https://www.linkedin.com/in/maarquesz)
 
 ---
 
@@ -38,7 +38,6 @@ Gosto de resolver problemas reais com código limpo e eficiente, explorando desd
 ![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat)
 ![Scikit-Learn](https://img.shields.io/badge/-Scikit--Learn-F7931E?style=flat\&logo=scikit-learn\&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat\&logo=git\&logoColor=white)
-![VSCode](https://img.shields.io/badge/-VSCode-007ACC?style=flat\&logo=visual-studio-code\&logoColor=white)
 ![Excel](https://img.shields.io/badge/-Excel-217346?style=flat\&logo=microsoft-excel\&logoColor=white)
 
 ---
@@ -55,9 +54,9 @@ Gosto de resolver problemas reais com código limpo e eficiente, explorando desd
 
 ### 🔹 [Monitoramento_Gastos](https://github.com/maarques/Monitoramento_Gastos)
 
-> **Descrição:** Aplicação em Python com interface intuitiva para controle e análise de gastos pessoais.
-> **Tecnologias:** Tkinter • Pandas • OpenPyXL
-> **Destaque:** Interface visual simples, suporte a planilhas e checklist de pagamentos automáticos.
+> **Descrição:** Aplicação em Python utilizando Flask com interface intuitiva para controle e análise de gastos pessoais.
+> **Tecnologias:** Flask • Pandas • OpenPyXL
+> **Destaque:** Interface na WEB, suporte a planilhas e checklist de pagamentos automáticos.
 
 ---
 
@@ -80,17 +79,17 @@ Gosto de resolver problemas reais com código limpo e eficiente, explorando desd
 
 ## 🏆 Certificações & Experiências
 
-* 🎓 **Certificados:** Excel (Alura), Linguagem C (Alura)
-* 💻 **Experiência:** Automação de tarefas e análise de dados com Python e Excel
+* 🎓 [Certificados]([https://link-para-o-curriculo](https://drive.google.com/drive/folders/1Dm6HELvptZKGLzpm6Qr5JWiscu7y9KEe?hl=pt-br))
+* 💻 **Experiência:** Estagiário em RPA na ValeSgop - Automação de tarefas, análise de dados e machine larning com Python e Excel
 * 🔬 **Iniciação Científica:** Foco em ciência de dados e inteligência artificial aplicada
 
 ---
 
 ## 🌍 Vamos nos conectar
 
-* 🔗 [LinkedIn](https://www.linkedin.com/in/thiagomarques)
-* 📧 [thiagomarques@email.com](mailto:thiagomarques@email.com)
-* 💼 [Portfólio / Currículo](https://link-para-o-curriculo)
+* 🔗 [LinkedIn](https://www.linkedin.com/in/maarquesz)
+* 📧 [thi4go.marqu3s@gmail.com](mailto:thi4go.marqu3s@gmail.com)
+* 💼 [Currículo]([https://link-para-o-curriculo](https://drive.google.com/drive/folders/1Dm6HELvptZKGLzpm6Qr5JWiscu7y9KEe?hl=pt-br))
 
 ---
 
@@ -100,4 +99,4 @@ Gosto de resolver problemas reais com código limpo e eficiente, explorando desd
 
 ---
 
-<!-- last-updated -->Última atualização: 2025-10-07
+<!-- last-updated -->Última atualização: 07/10/2025
