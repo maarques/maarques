@@ -80,7 +80,7 @@ Gosto de resolver problemas reais com código limpo e eficiente, explorando desd
 ## 🏆 Certificações & Experiências
 
 * 🎓 [Certificados]([https://link-para-o-curriculo](https://drive.google.com/drive/folders/1Dm6HELvptZKGLzpm6Qr5JWiscu7y9KEe?hl=pt-br))
-* 💻 **Experiência:** Estagiário em RPA na ValeSgop - Automação de tarefas, análise de dados e machine larning com Python e Excel
+* 💻 **Experiência:** Estagiário em RPA na ValeShop - Automação de tarefas, análise de dados e machine larning com Python e Excel
 * 🔬 **Iniciação Científica:** Foco em ciência de dados e inteligência artificial aplicada
 
 ---
