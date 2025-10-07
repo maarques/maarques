@@ -1,4 +1,4 @@
-![Banner](./banner_git.png)
+![Banner](./banner_git.PNG)
 
 # 👋 Olá, eu sou o **Thiago Marques**
 
