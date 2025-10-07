@@ -1,4 +1,6 @@
-<img src="https://raw.githubusercontent.com/maarques/maarques/main/assets/banner_git.png" alt="Banner" width="100%">
+<p align="center">
+  <img src="assets/banner_git.png" alt="Banner" width="70%">
+</p>
 
 # 👋 Olá, eu sou o **Thiago Marques**
 
