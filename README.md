@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/banner_git.png" alt="Banner" width="70%">
+  <img src="assets/banner_git.png" alt="Banner" style="max-width: 100%; height: 180px; object-fit: cover;">
 </p>
 
 # 👋 Olá, eu sou o **Thiago Marques**
