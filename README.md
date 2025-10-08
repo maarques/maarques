@@ -60,7 +60,7 @@ Gosto de resolver problemas reais com código limpo e eficiente, explorando desd
 
 ---
 
-### 🔹 [Otimizacao_de_Rondas_Policiais_no_Plano-DF](https://github.com/maarques/Otimizacao_de_Rondas_Policiais_em_Ceilandia-DF-NovasTecnologias)
+### 🔹 [Otimizacao_de_Rondas_Policiais_no_Plano-DF](https://github.com/maarques/Otimizacao_de_Rondas_Policiais_no_Plano-DF)
 
 > **Descrição:** Projeto de pesquisa em *Novas Tecnologias* para otimizar rotas de patrulhamento policial no Plano-DF usando análise de dados e técnicas de otimização.
 > **Tecnologias:** Python • Scikit-Learn • Google Maps API
