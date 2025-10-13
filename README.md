@@ -34,7 +34,7 @@ Gosto de resolver problemas reais com código limpo e eficiente, explorando desd
 **Ferramentas & Tecnologias:**
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat\&logo=python\&logoColor=white)
 ![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat)
-![OpenPyxl](https://img.shields.io/badge/OpenPyxl-0A6EBD?style=flat\&logo=microsoft-excel&logoColor=white)
+![OpenPyxl](https://img.shields.io/badge/OpenPyxl-444444?style=flat\&logo=microsoft-excel&logoColor=white)
 ![Excel](https://img.shields.io/badge/-Excel-217346?style=flat\&logo=microsoft-excel\&logoColor=white)
 ![NumPy](https://img.shields.io/badge/-NumPy-013243?style=flat)
 ![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat)
