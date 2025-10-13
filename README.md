@@ -34,11 +34,12 @@ Gosto de resolver problemas reais com código limpo e eficiente, explorando desd
 **Ferramentas & Tecnologias:**
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat\&logo=python\&logoColor=white)
 ![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat)
+![OpenPyXL](https://img.shields.io/badge/OpenPyXL-FFD43B?style=for-the-badge&logo=python&logoColor=white)
+![Excel](https://img.shields.io/badge/-Excel-217346?style=flat\&logo=microsoft-excel\&logoColor=white)
 ![NumPy](https://img.shields.io/badge/-NumPy-013243?style=flat)
 ![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat)
 ![Scikit-Learn](https://img.shields.io/badge/-Scikit--Learn-F7931E?style=flat\&logo=scikit-learn\&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat\&logo=git\&logoColor=white)
-![Excel](https://img.shields.io/badge/-Excel-217346?style=flat\&logo=microsoft-excel\&logoColor=white)
 
 ---
 
