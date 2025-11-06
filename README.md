@@ -61,7 +61,7 @@ Gosto de resolver problemas reais com código limpo e eficiente, explorando desd
 
 ---
 
-### 🔹 [Estudo_DeepLearning]([https://github.com/maarques/Otimizacao_de_Rondas_Policiais_no_Plano-DF](https://github.com/maarques/Estudo_DeepLearning.git))
+### 🔹 [Estudo_DeepLearning](https://github.com/maarques/Estudo_DeepLearning.git)
 
 > **Descrição:** Projeto de estudo de formação pela escola de tecnologia ALURA.
 > **Tecnologias:** Python • Hugginface_hub • API
