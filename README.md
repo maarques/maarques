@@ -61,11 +61,11 @@ Gosto de resolver problemas reais com código limpo e eficiente, explorando desd
 
 ---
 
-### 🔹 [Otimizacao_de_Rondas_Policiais_no_Plano-DF](https://github.com/maarques/Otimizacao_de_Rondas_Policiais_no_Plano-DF)
+### 🔹 [Estudo_DeepLearning]([https://github.com/maarques/Otimizacao_de_Rondas_Policiais_no_Plano-DF](https://github.com/maarques/Estudo_DeepLearning.git))
 
-> **Descrição:** Projeto de pesquisa em *Novas Tecnologias* para otimizar rotas de patrulhamento policial no Plano-DF usando análise de dados e técnicas de otimização.
-> **Tecnologias:** Python • Scikit-Learn • Google Maps API
-> **Destaque:** Aplicação de ciência de dados para segurança pública e planejamento urbano.
+> **Descrição:** Projeto de estudo de formação pela escola de tecnologia ALURA.
+> **Tecnologias:** Python • Hugginface_hub • API
+> **Destaque:** Integrando modelos de IA via API
 
 ---
 
