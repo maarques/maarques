@@ -22,7 +22,6 @@ Gosto de resolver problemas reais com código limpo e eficiente, explorando desd
 * 🔭 Atualmente estagiário emm RPA desenvolvendo projetos em **Python**, com foco em dados e automação.
 * 💡 Interesses: aprendizado de máquina, análise de dados e engenharia de software.
 * 🎯 Objetivo: aplicar tecnologia de forma prática para gerar impacto real.
-* 💬 Curiosidade: tive meu primeiro contato com automação criando soluções no Excel antes mesmo de conhecer Python.
 * 📫 Contato: [thi4go.marqu3s@gmail.com](mailto:thi4go.marqu3s@gmail.com) • [LinkedIn](https://www.linkedin.com/in/maarquesz)
 
 ---
